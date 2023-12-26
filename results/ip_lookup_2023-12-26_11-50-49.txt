@@ -1,0 +1,15 @@
+IP Information for 
+Country: India (IN)
+Region: Maharashtra (MH)
+City: Pune
+Zip Code: 411005
+Latitude: 18.6161, Longitude: 73.7286
+Timezone: Asia/Kolkata (Offset: 19800)
+Currency: INR
+ISP: Tata Teleservices (Maharashtra) Limited
+Organization: Tata Teleservices (Maharashtra) Ltd
+AS: AS17762 Tata Teleservices Maharashtra Ltd (HTIL-TTML-IN-AP)
+Reverse DNS: static-142.151.248.49-tataidc.co.in
+Mobile: False
+Proxy: False
+Hosting: False

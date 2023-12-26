@@ -4,6 +4,7 @@ import requests
 with open("apis/.phone_veriphone_secrets", "r") as file:
     key = file.read().rstrip()
 
+
 endpoint = "https://api.veriphone.io"
 
 path = "/v2/verify"

@@ -17,6 +17,7 @@ def find_social_media_profiles(email):
     else:
         print(f'No social media profiles found for {email}')
 
-if __name__ == "__main__":
-    email_to_check = 'email@example.com'  # Replace with the email address you want to analyze
+
+if __name__ == '__main__':
+    email_to_check = 'test@gmail.com'  # Replace with the email address you want to analyze
     find_social_media_profiles(email_to_check)
