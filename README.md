@@ -41,7 +41,7 @@ $ sudo apt install -y git python3-pip python3-venv python3-tk
 Clone the repository with
 
 ```
-$ git clone https://github.com/shubhzzz19/autOSINT.git
+$ git clone https://github.com/shubhzz0/autOSINT.git
 ```
 
 ```
